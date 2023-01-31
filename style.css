@@ -12,7 +12,7 @@ header{
     justify-content: center;
     align-items: center;
 }
-header span{
+header span {
     margin: 0;
     width: 50px;
     float: left;
